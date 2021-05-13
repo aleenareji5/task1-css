@@ -1,0 +1,60 @@
+.most-right{
+    margin-left: 900px;
+    font-family: Montserrat;
+}
+.first{
+    margin-top: -2px;
+    margin-left: 50px;
+    color: blue;
+    font-family: Montserrat;
+    font-size: 13px;
+    
+   
+}
+.second{
+    margin-left: 365px;
+    margin-top: -180px ;
+    color: rgb(245, 12, 63);
+    border-left: 4px solid yellow;
+    height: 420px;
+    position: static;
+    left: 50%;
+    border-right: 4px solid yellow;
+    height: 420px;
+    font-family: Montserrat;
+    font-size: 15px;
+  
+}
+.third{
+    margin-left: 760px;
+    margin-top: -439px;
+    color: rgb(255, 0, 140);
+    border-left: 4px solid yellow;
+    border-right: 4px yellow;
+    height: 450px;
+    position: static;
+    left: 50%;
+    font-family: Montserrat;
+    font-size: 15px;
+    font weight :bold;
+  
+}
+.fourth{
+    margin-left: 1170px;
+    margin-top: -469px;
+    color: blue;
+    border-left: 4px solid yellow;
+    height: 450px;
+    position: static;
+    left: 50%;
+    right: 50%;
+    font-family: Montserrat;
+    font-size: 13px;
+  
+}
+.bottom{
+    padding-bottom: 20px;
+    color: red;
+    background: black;
+
+}
